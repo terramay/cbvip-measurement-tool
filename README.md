@@ -1,2 +1,2 @@
 # cbvip-measurement-tool
-outcome measurements reference tool for commmunity-based violence intervention and prevention programs.
+outcome measurements reference tool for commmunity-based violence intervention and prevention (cbvip) programs.
